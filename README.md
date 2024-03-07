@@ -14,5 +14,5 @@ Task inside gulpfile.js
 - gulp watch > to wach files and folder for changes
 
 Sample output
-- see on output snapshot directory
+- checkout dist directory or see on output snapshot directory
 
